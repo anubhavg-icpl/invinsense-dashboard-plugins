@@ -1,7 +1,7 @@
 {
   "id": "wazuhCore",
   "version": "4.9.0-07",
-  "opensearchDashboardsVersion": "opensearchDashboards",
+  "opensearchDashboardsVersion": ">=2.0.0 <3.0.0",
   "server": true,
   "ui": true,
   "requiredPlugins": ["navigation", "opensearchDashboardsUtils"],
